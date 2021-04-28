@@ -1,0 +1,81 @@
+h1{
+  font-size:71px;
+  background: #fcecdd;
+  color: #72147e;
+  font-family: Romana;
+}
+
+h2{
+	font-size:65px;
+	color: #7b113a;
+	font-family: Romana;
+	background:#f8ede3;
+}
+
+li{
+	font-size: 45px;
+	color: #132c33;
+
+}
+
+body{
+	background: #c67ace;
+}
+
+table, th, td {
+  border: 8px solid #ce1f6a;
+  border-collapse: collapse;
+  font-family:Romana;
+  background: #d8f8b7;
+
+}
+th, td {
+	font-family:Romana;
+  padding: 10px;
+  text-align: left;   
+  font-size: 56px; 
+}
+
+p{
+	font-size: 40px;
+	color: #f0e3ca;
+	background: #810000;
+	font-family: Geneva;
+}
+
+td.texto{
+  background:#98ddca;
+  
+} 
+
+td.texto1{
+  background:#81b214;
+  
+} 
+
+p.texto2{
+	color: black;
+	font-size: 50px;
+	background: #c67ace;
+}
+p.texto3{
+	color: black;
+	font-size: 50px;
+	background: #c67ace;
+}
+p.texto4{
+	color: black;
+	font-size: 50px;
+	background: #c67ace;
+}
+p.texto5{
+	color: black;
+	background: #e48900;
+}
+div{
+	background:#f7f3e9;
+}
+a{
+	font-family: Romana;
+	font-size: 60px;
+}
